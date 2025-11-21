@@ -11,4 +11,4 @@ This repository contains all the code used in our analyses of LUAD_KlaSig projec
 
 
 ## Citation
-If you reference any code from this repository, please cite: (The manuscript is currently **Under Review**; we will update this citation information upon formal acceptance.)
+If you reference any code from this repository, please cite: doi:10.1016/j.canlet.2025.218158[https://doi.org/10.1016/j.canlet.2025.218158]
